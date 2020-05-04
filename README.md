@@ -5,6 +5,7 @@ Write the steps to execute your project
 FRONT-END (admin-project)
 
 1° npm i
+
 2° npm start
 
 ------------------------------------------------------------------------------------------------
